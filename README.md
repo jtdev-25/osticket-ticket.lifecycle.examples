@@ -1,5 +1,5 @@
 # osticket-ticket.lifecycle.examples
-
+- REQUIRED CHECKLIST: <a href="https://docs.google.com/document/d/1PKa9kns-IkAI9qHm2ptGnALoAQiRHoNQY-1LV9bNsmg/edit?tab=t.0"> osTicket Mock Tickets Checklist </a>
 ## 🛠️ osTicket Workflow Scenarios
 
 This repository provides four detailed scenarios demonstrating how osTicket functions in a real-world IT help desk environment. Each scenario includes the perspectives of:
