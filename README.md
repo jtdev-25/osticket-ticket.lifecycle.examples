@@ -1,4 +1,4 @@
-# osTicket:  Procedural Breakdown
+# 🦘 osTicket:  Procedural Breakdown
 - REQUIRED CHECKLIST: <a href="https://docs.google.com/document/d/1PKa9kns-IkAI9qHm2ptGnALoAQiRHoNQY-1LV9bNsmg/edit?tab=t.0"> osTicket Mock Tickets Checklist </a>
 ## 🛠️ osTicket Workflow Scenarios
 
